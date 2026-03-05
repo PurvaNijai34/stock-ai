@@ -71,6 +71,8 @@ npm start
 Frontend runs on:
 
 http://localhost:3000
+
+
 📊 Dashboard Output
 
 After running the project:
