@@ -1,15 +1,15 @@
-Installation & Setup
+# Installation & Setup
 
 Clone the repository:
 
-git clone https://github.com/yourusername/stock-ai-project.git
+git clone https://github.com/PurvaNijai34/stock-ai.git
 
 Move into the project directory:
 
 cd stock-ai-project
 
 
-🧩 Backend Setup (Flask AI API)
+##  Backend Setup (Flask AI API)
 
 Go to the AI model folder:
 
@@ -34,7 +34,9 @@ python api.py
 The AI API will run on:
 
 http://localhost:5000
-🔗 Node Backend Setup
+
+
+## Node Backend Setup
 
 Open a new terminal and go to backend folder:
 
@@ -51,7 +53,8 @@ node app.js
 Server runs on:
 
 http://localhost:4000
-🎨 Frontend Setup (React)
+
+## Frontend Setup (React)
 
 Open another terminal and go to frontend folder:
 
@@ -88,9 +91,3 @@ Charts displayed:
 
 🥧 Pie Chart → Social media sentiment distribution
 
-🧪 Example Output
-Stock: Amazon
-
-Prediction: UP
-Sentiment: Positive
-Confidence: 0.82
